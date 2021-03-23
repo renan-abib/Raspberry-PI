@@ -1,4 +1,4 @@
 # Auto detect text files and perform LF normalization
 * .javascript linguist-detectable=true
-* .node linguist-detectable=true
+* .node.js linguist-detectable=true
 
